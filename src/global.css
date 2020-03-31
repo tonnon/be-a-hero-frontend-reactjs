@@ -80,3 +80,9 @@ form textarea {
 .back-link:hover {
     opacity: 0.8;
 }
+
+@media screen and (min-width: 320px) and (max-width:916px) {
+    .back-link {
+        justify-content: center;
+    }
+}
